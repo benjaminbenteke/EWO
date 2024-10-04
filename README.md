@@ -11,4 +11,5 @@ Everything has to be in the same folder, for instance:
 - Weights_without_correct
 - EWO_Without_Correction.ipynb
 
-After running everything, your files will be in: UGuelphensemble-GRYPHON/UGuelphensemble-GRYPHON/US/EWO_Without_correct/
+
+Before running, create this folder: UGuelphensemble-GRYPHON/UGuelphensemble-GRYPHON/US/EWO_Without_correct/ and after running everything will be inside.
