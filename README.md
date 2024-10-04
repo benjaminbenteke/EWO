@@ -9,5 +9,6 @@ Everything has to be in the same folder, for instance:
 - FluSight-forecast-hub-main
 - UGuelphensemble-GRYPHON
 - Weights_without_correct
+- EWO_Without_Correction.ipynb
 
 After running everything, your files will be in: UGuelphensemble-GRYPHON/UGuelphensemble-GRYPHON/US/EWO_Without_correct/
