@@ -23,3 +23,6 @@ Before running, create this folder: UGuelphensemble-GRYPHON/UGuelphensemble-GRYP
 
 
 # Plot 2: forecasts
+ horizon 0            |  horizon 1 |  horizon 2 |  horizon 3
+:--------------:|:--------:|:--------:|:--------:
+![](EWO0.png)  |  ![](EWO1.png) |  ![](EWO2.png) |  ![](EWO3.png)
