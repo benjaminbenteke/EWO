@@ -17,9 +17,9 @@ Before running, create this folder: UGuelphensemble-GRYPHON/UGuelphensemble-GRYP
 
 # Plot1: weights for each horizon
 
- horizon 0            |  horizon 1
-:--------------:|:--------:
-![](weights0.png)  |  ![](weights1.png)
+ horizon 0            |  horizon 1 |  horizon 2
+:--------------:|:--------:|:--------:
+![](weights0.png)  |  ![](weights1.png) |  ![](weights2.png)
 
 
 # Plot 2: forecasts
