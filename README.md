@@ -14,3 +14,12 @@ Everything has to be in the same folder, for instance:
 
 
 Before running, create this folder: UGuelphensemble-GRYPHON/UGuelphensemble-GRYPHON/US/EWO_Without_correct/ and after running everything will be inside.
+
+# Plot1: weights for each horizon
+
+ horizon 0            |  horizon 1
+:--------------:|:--------:
+![](images/cat.0.jpg)  |  ![](images/dog.0.jpg)
+
+
+# Plot 2: forecasts
