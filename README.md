@@ -19,7 +19,7 @@ Before running, create this folder: UGuelphensemble-GRYPHON/UGuelphensemble-GRYP
 
  horizon 0            |  horizon 1
 :--------------:|:--------:
-![](images/cat.0.jpg)  |  ![](images/dog.0.jpg)
+![](weights0.jpg)  |  ![](weights1.jpg)
 
 
 # Plot 2: forecasts
